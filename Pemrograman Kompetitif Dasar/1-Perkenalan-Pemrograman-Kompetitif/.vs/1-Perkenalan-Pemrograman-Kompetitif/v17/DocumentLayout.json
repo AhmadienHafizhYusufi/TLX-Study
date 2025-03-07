@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{435EFCBD-5830-4405-B6A9-E4ECC0B8B7AB}|1-Perkenalan-Pemrograman-Kompetitif.vcxproj|D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\P1-Operasi-Matriks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{435EFCBD-5830-4405-B6A9-E4ECC0B8B7AB}|1-Perkenalan-Pemrograman-Kompetitif.vcxproj|solutionrelative:P1-Operasi-Matriks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435EFCBD-5830-4405-B6A9-E4ECC0B8B7AB}|1-Perkenalan-Pemrograman-Kompetitif.vcxproj|D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{435EFCBD-5830-4405-B6A9-E4ECC0B8B7AB}|1-Perkenalan-Pemrograman-Kompetitif.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435EFCBD-5830-4405-B6A9-E4ECC0B8B7AB}|1-Perkenalan-Pemrograman-Kompetitif.vcxproj|D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\A-Perkenalan-Soal-Implementasi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{435EFCBD-5830-4405-B6A9-E4ECC0B8B7AB}|1-Perkenalan-Pemrograman-Kompetitif.vcxproj|solutionrelative:A-Perkenalan-Soal-Implementasi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P1-Operasi-Matriks.cpp",
+              "DocumentMoniker": "D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\P1-Operasi-Matriks.cpp",
+              "RelativeDocumentMoniker": "P1-Operasi-Matriks.cpp",
+              "ToolTip": "D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\P1-Operasi-Matriks.cpp",
+              "RelativeToolTip": "P1-Operasi-Matriks.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv0kAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T22:41:28.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-06T22:22:29.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "A-Perkenalan-Soal-Implementasi.cpp",
+              "DocumentMoniker": "D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\A-Perkenalan-Soal-Implementasi.cpp",
+              "RelativeDocumentMoniker": "A-Perkenalan-Soal-Implementasi.cpp",
+              "ToolTip": "D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\A-Perkenalan-Soal-Implementasi.cpp",
+              "RelativeToolTip": "A-Perkenalan-Soal-Implementasi.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T22:01:49.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
