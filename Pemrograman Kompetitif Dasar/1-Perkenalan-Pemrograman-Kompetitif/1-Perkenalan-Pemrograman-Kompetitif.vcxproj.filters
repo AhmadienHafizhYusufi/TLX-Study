@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="A-Perkenalan-Soal-Implementasi.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="P1-Operasi-Matriks.cpp">
+    <ClCompile Include="P2-Runtuh.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

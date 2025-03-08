@@ -127,8 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="A-Perkenalan-Soal-Implementasi.cpp" />
-    <ClCompile Include="P1-Operasi-Matriks.cpp" />
+    <ClCompile Include="P2-Runtuh.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{435EFCBD-5830-4405-B6A9-E4ECC0B8B7AB}|1-Perkenalan-Pemrograman-Kompetitif.vcxproj|D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\P1-Operasi-Matriks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{435EFCBD-5830-4405-B6A9-E4ECC0B8B7AB}|1-Perkenalan-Pemrograman-Kompetitif.vcxproj|solutionrelative:P1-Operasi-Matriks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{435EFCBD-5830-4405-B6A9-E4ECC0B8B7AB}|1-Perkenalan-Pemrograman-Kompetitif.vcxproj|D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\P2-Runtuh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{435EFCBD-5830-4405-B6A9-E4ECC0B8B7AB}|1-Perkenalan-Pemrograman-Kompetitif.vcxproj|solutionrelative:P2-Runtuh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{435EFCBD-5830-4405-B6A9-E4ECC0B8B7AB}|1-Perkenalan-Pemrograman-Kompetitif.vcxproj|D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "P1-Operasi-Matriks.cpp",
-              "DocumentMoniker": "D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\P1-Operasi-Matriks.cpp",
-              "RelativeDocumentMoniker": "P1-Operasi-Matriks.cpp",
-              "ToolTip": "D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\P1-Operasi-Matriks.cpp",
-              "RelativeToolTip": "P1-Operasi-Matriks.cpp",
-              "ViewState": "AgIAAEMAAAAAAAAAAADwv0kAAAAJAAAAAAAAAA==",
+              "Title": "P2-Runtuh.cpp",
+              "DocumentMoniker": "D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\P2-Runtuh.cpp",
+              "RelativeDocumentMoniker": "P2-Runtuh.cpp",
+              "ToolTip": "D:\\Repository\\TLX-Study\\Pemrograman Kompetitif Dasar\\1-Perkenalan-Pemrograman-Kompetitif\\P2-Runtuh.cpp",
+              "RelativeToolTip": "P2-Runtuh.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-06T22:41:28.051Z",
+              "WhenOpened": "2025-03-08T13:00:28.193Z",
               "EditorCaption": ""
             },
             {
@@ -64,8 +64,7 @@
               "RelativeToolTip": "A-Perkenalan-Soal-Implementasi.cpp",
               "ViewState": "AgIAAAUAAAAAAAAAAADwvyUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-06T22:01:49.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T22:01:49.057Z"
             }
           ]
         }
