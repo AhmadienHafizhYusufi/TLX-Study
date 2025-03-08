@@ -129,9 +129,11 @@
   <ItemGroup>
     <ClCompile Include="11-Analisis-Kompleksitas.cpp" />
     <ClCompile Include="A-Perkenalan-Format-Soal-Pemrograman-Kompetitif-I.cpp" />
+    <ClCompile Include="B-Perkenalan-Format-Soal-Pemrograman-Kompetitif-II.cpp" />
+    <ClCompile Include="C-Membariskan-Bebek.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="READM.md" />
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

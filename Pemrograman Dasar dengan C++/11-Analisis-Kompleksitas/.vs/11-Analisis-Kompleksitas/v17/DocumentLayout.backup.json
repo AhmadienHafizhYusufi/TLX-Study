@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Repository\\TLX-Study\\Pemrograman Dasar dengan C\u002B\u002B\\11-Analisis-Kompleksitas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8312D0CB-1C97-4926-BC95-7CA340C68900}|11-Analisis-Kompleksitas.vcxproj|D:\\Repository\\TLX-Study\\Pemrograman Dasar dengan C\u002B\u002B\\11-Analisis-Kompleksitas\\A-Perkenalan-Format-Soal-Pemrograman-Kompetitif-I.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8312D0CB-1C97-4926-BC95-7CA340C68900}|11-Analisis-Kompleksitas.vcxproj|solutionrelative:A-Perkenalan-Format-Soal-Pemrograman-Kompetitif-I.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8312D0CB-1C97-4926-BC95-7CA340C68900}|11-Analisis-Kompleksitas.vcxproj|D:\\Repository\\TLX-Study\\Pemrograman Dasar dengan C\u002B\u002B\\11-Analisis-Kompleksitas\\B-Perkenalan-Format-Soal-Pemrograman-Kompetitif-II.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8312D0CB-1C97-4926-BC95-7CA340C68900}|11-Analisis-Kompleksitas.vcxproj|solutionrelative:B-Perkenalan-Format-Soal-Pemrograman-Kompetitif-II.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8312D0CB-1C97-4926-BC95-7CA340C68900}|11-Analisis-Kompleksitas.vcxproj|D:\\Repository\\TLX-Study\\Pemrograman Dasar dengan C\u002B\u002B\\11-Analisis-Kompleksitas\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8312D0CB-1C97-4926-BC95-7CA340C68900}|11-Analisis-Kompleksitas.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "A-Perkenalan-Format-Soal-Pemrograman-Kompetitif-I.cpp",
-              "DocumentMoniker": "D:\\Repository\\TLX-Study\\Pemrograman Dasar dengan C\u002B\u002B\\11-Analisis-Kompleksitas\\A-Perkenalan-Format-Soal-Pemrograman-Kompetitif-I.cpp",
-              "RelativeDocumentMoniker": "A-Perkenalan-Format-Soal-Pemrograman-Kompetitif-I.cpp",
-              "ToolTip": "D:\\Repository\\TLX-Study\\Pemrograman Dasar dengan C\u002B\u002B\\11-Analisis-Kompleksitas\\A-Perkenalan-Format-Soal-Pemrograman-Kompetitif-I.cpp",
-              "RelativeToolTip": "A-Perkenalan-Format-Soal-Pemrograman-Kompetitif-I.cpp",
+              "Title": "B-Perkenalan-Format-Soal-Pemrograman-Kompetitif-II.cpp",
+              "DocumentMoniker": "D:\\Repository\\TLX-Study\\Pemrograman Dasar dengan C\u002B\u002B\\11-Analisis-Kompleksitas\\B-Perkenalan-Format-Soal-Pemrograman-Kompetitif-II.cpp",
+              "RelativeDocumentMoniker": "B-Perkenalan-Format-Soal-Pemrograman-Kompetitif-II.cpp",
+              "ToolTip": "D:\\Repository\\TLX-Study\\Pemrograman Dasar dengan C\u002B\u002B\\11-Analisis-Kompleksitas\\B-Perkenalan-Format-Soal-Pemrograman-Kompetitif-II.cpp",
+              "RelativeToolTip": "B-Perkenalan-Format-Soal-Pemrograman-Kompetitif-II.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T13:34:23.539Z",
+              "WhenOpened": "2025-03-08T14:22:18.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Repository\\TLX-Study\\Pemrograman Dasar dengan C\u002B\u002B\\11-Analisis-Kompleksitas\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Repository\\TLX-Study\\Pemrograman Dasar dengan C\u002B\u002B\\11-Analisis-Kompleksitas\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-08T13:51:01.546Z",
               "EditorCaption": ""
             }
           ]
